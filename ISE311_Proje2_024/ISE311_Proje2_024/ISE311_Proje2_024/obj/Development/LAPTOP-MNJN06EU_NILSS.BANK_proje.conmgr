@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-MNJN06EU_NILSS.BANK_proje"
+  DTS:DTSID="{561F9CD6-84BD-4A33-A7DF-A50FC099E039}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-MNJN06EU\NILSS;Initial Catalog=BANK_proje;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-ISE311_Proje2_024-{561F9CD6-84BD-4A33-A7DF-A50FC099E039}LAPTOP-MNJN06EU\NILSS.BANK_proje;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
